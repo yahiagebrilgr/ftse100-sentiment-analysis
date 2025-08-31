@@ -38,4 +38,4 @@ For a real-world application, this model would need lots of upgrades to be effec
 
 (3) High-Frequency Analysis: The market reacts to news in seconds, whereas this strategy covers days. A real world strategy would need more frequent data to capture the immediate impact of a news story breaking.
 
-This project was an  okay exercise in building an end-to-end data analysis pipeline, but turning it into a profitable, real-world trading strategy would require these more advanced, resource-intensive steps.
+This project was an  okay exercise in building an end-to-end data analysis pipeline, but turning it into a strategy that could be used in the real world and would be profitable would require these more advanced, resource-intensive steps.
